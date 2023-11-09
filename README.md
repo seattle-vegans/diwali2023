@@ -22,9 +22,9 @@ The Seattle Vegans are an actve group here to support you on your journey with r
 
 [![Challenge22](https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/361565804_606414688253397_3336864705855284555_n.png?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dVq8VaGbb9sAX_cFZnv&_nc_ht=scontent-sea1-1.xx&oh=00_AfBkWEVvJVGecmOefxSMP9PoAtz1sVJ8gHWruk5eR6RdeA&oe=65521699)](https://challenge22.com)
 
-# Informational videos
-### * "Why I Stopped Drinking Milk" 🥛🐮
+# Informational videos 📖
+## "Why I Stopped Drinking Milk" 🥛🐮
 [![Why I Stopped Drinking Milk](https://img.youtube.com/vi/jSFPfZ8ZiHM/0.jpg)](https://www.youtube.com/watch?v=jSFPfZ8ZiHM)
-### * "Why don't vegans eat honey?" 🍯🐝
+## "Why don't vegans eat honey?" 🍯🐝
 [![Why don't vegans eat honey?](https://img.youtube.com/vi/clMNw_VO1xo/0.jpg)](https://www.youtube.com/watch?v=clMNw_VO1xo)
 
